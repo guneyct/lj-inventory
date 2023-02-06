@@ -31,7 +31,6 @@
 - ak4y for <a href="https://github.com/ak4y/qb-inventory">dupe fix</a>
 - loljoshie for <a href="https://github.com/loljoshie/lj-inventory">original version</a>
 
-# For More Content
+## For More Content
 
-## You can always check my discord for this kind of scripts
 [Discord](https://discord.gg/7aEchwgPu9) | [Tebex](https://gct.tebex.io) 
