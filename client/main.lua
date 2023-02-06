@@ -551,7 +551,7 @@ RegisterNetEvent('inventory:server:RobPlayer', function(TargetId)
 end)
 
 RegisterNetEvent('inventory:client:OpenInventory', function(PlayerAmmo, inventory, other)
-    if not IsEntityDead(PlayerPedId()) and not exports["gct-bodycam"]:isCamOpen() then
+    if not IsEntityDead(PlayerPedId()) then
         Wait(500)
         ToggleHotbar(false)
         if showBlur == true then
